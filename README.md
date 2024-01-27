@@ -1,3 +1,5 @@
+https://ianwdavis.com/dnd-battle-ai.html
+
 # For more learning:
 
 - [Dota 2 paper](https://arxiv.org/pdf/1912.06680.pdf)
